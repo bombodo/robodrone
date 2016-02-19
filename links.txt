@@ -1,0 +1,7 @@
+https://learn.adafruit.com/introducing-bluefruit-ez-link/faq
+
+http://www.instructables.com/id/Simple-Arduino-and-HC-SR04-Example/?ALLSTEPS
+
+http://howthingsfly.si.edu/flight-dynamics/roll-pitch-and-yaw
+
+https://learn.adafruit.com/using-the-adafruit-unified-sensor-driver/how-does-it-work
